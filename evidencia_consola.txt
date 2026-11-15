@@ -1,0 +1,8 @@
+--- RESULTADOS DE MINIMOS CUADRADOS Y CORRELACION ---
+Sumatorias: n= 5, X= 15.0, Y= 35.0, X2= 55.0, Y2= 285.0, XY= 125.0
+Pendiente (beta1): 2.0000
+Ordenada al origen (beta0): 1.0000
+Modelo obtenido: Y = 1.0000 + 2.0000X
+Coeficiente de Pearson (r): 1.0000
+Coeficiente de Determinacion (r2): 1.0000
+Prediccion para X = 6.0: Y = 13.0000
